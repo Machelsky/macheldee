@@ -1,0 +1,7 @@
+main:
+  - title: "Leetcode"
+    url: /leetcode
+  - title: "System Design"
+    url: /sd/
+  - title: "Finance"
+    url: /finance
